@@ -1,0 +1,16 @@
+D:\Lập_trình_trực_quan_nộp_bài\VOHOANGPHUC_6551071067_BTLT3\bai_16\bai_16\obj\Debug\net10.0-windows\bai_16.Form1.resources
+D:\Lập_trình_trực_quan_nộp_bài\VOHOANGPHUC_6551071067_BTLT3\bai_16\bai_16\obj\Debug\net10.0-windows\bai_16.csproj.GenerateResource.cache
+D:\Lập_trình_trực_quan_nộp_bài\VOHOANGPHUC_6551071067_BTLT3\bai_16\bai_16\obj\Debug\net10.0-windows\bai_16.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập_trình_trực_quan_nộp_bài\VOHOANGPHUC_6551071067_BTLT3\bai_16\bai_16\obj\Debug\net10.0-windows\bai_16.AssemblyInfoInputs.cache
+D:\Lập_trình_trực_quan_nộp_bài\VOHOANGPHUC_6551071067_BTLT3\bai_16\bai_16\obj\Debug\net10.0-windows\bai_16.AssemblyInfo.cs
+D:\Lập_trình_trực_quan_nộp_bài\VOHOANGPHUC_6551071067_BTLT3\bai_16\bai_16\obj\Debug\net10.0-windows\bai_16.csproj.CoreCompileInputs.cache
+D:\Lập_trình_trực_quan_nộp_bài\VOHOANGPHUC_6551071067_BTLT3\bai_16\bai_16\bin\Debug\net10.0-windows\bai_16.exe
+D:\Lập_trình_trực_quan_nộp_bài\VOHOANGPHUC_6551071067_BTLT3\bai_16\bai_16\bin\Debug\net10.0-windows\bai_16.deps.json
+D:\Lập_trình_trực_quan_nộp_bài\VOHOANGPHUC_6551071067_BTLT3\bai_16\bai_16\bin\Debug\net10.0-windows\bai_16.runtimeconfig.json
+D:\Lập_trình_trực_quan_nộp_bài\VOHOANGPHUC_6551071067_BTLT3\bai_16\bai_16\bin\Debug\net10.0-windows\bai_16.dll
+D:\Lập_trình_trực_quan_nộp_bài\VOHOANGPHUC_6551071067_BTLT3\bai_16\bai_16\bin\Debug\net10.0-windows\bai_16.pdb
+D:\Lập_trình_trực_quan_nộp_bài\VOHOANGPHUC_6551071067_BTLT3\bai_16\bai_16\obj\Debug\net10.0-windows\bai_16.dll
+D:\Lập_trình_trực_quan_nộp_bài\VOHOANGPHUC_6551071067_BTLT3\bai_16\bai_16\obj\Debug\net10.0-windows\refint\bai_16.dll
+D:\Lập_trình_trực_quan_nộp_bài\VOHOANGPHUC_6551071067_BTLT3\bai_16\bai_16\obj\Debug\net10.0-windows\bai_16.pdb
+D:\Lập_trình_trực_quan_nộp_bài\VOHOANGPHUC_6551071067_BTLT3\bai_16\bai_16\obj\Debug\net10.0-windows\bai_16.genruntimeconfig.cache
+D:\Lập_trình_trực_quan_nộp_bài\VOHOANGPHUC_6551071067_BTLT3\bai_16\bai_16\obj\Debug\net10.0-windows\ref\bai_16.dll
